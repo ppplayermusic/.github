@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ppplayermusic/.github/main/profile/banner.png" alt="PPPlayer Banner" width="100%" />
 
-  # 🎵 PPPlayer Music
+  # PPPlayer Music
 </div>
 
 ---
 
-Hey! Welcome to the PPPlayer org. 👋
+Hey! Welcome to the PPPlayer org.
 
 This is the home of **PPPlayer**, a music app we're building with Flutter. 
 
@@ -32,5 +32,5 @@ We like keeping things clean and performant. Here's what we're currently using:
 ### Get involved
 We're always tinkering with this. If you want to help out with the UI, improve how we resolve YouTube videos, or just fix a bug, PRs are super welcome. Feel free to open an issue if you have an idea.
 
-Catch you around! ✌️
+Catch you around!
 — Lucas Veneno & the PPPlayer team
