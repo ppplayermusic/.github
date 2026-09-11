@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ppplayermusic/.github/main/profile/banner.png" alt="PPPlayer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ppplayermusic/.github/main/profile/banner.jpg" alt="PPPlayer Banner" width="100%" />
 
   # PPPlayer Music
 </div>
@@ -28,7 +28,7 @@ We like keeping things clean and performant. Here's what we're currently using:
 
 ### Repositories
 - [**ppplayer**](https://github.com/ppplayermusic/ppplayer) — The main Flutter app. *(Active development!)*
-
+- [**website**](https://github.com/ppplayermusic/website) — The official website built with Next.js and Tailwind CSS.
 ### Get involved
 We're always tinkering with this. If you want to help out with the UI, improve how we resolve YouTube videos, or just fix a bug, PRs are super welcome. Feel free to open an issue if you have an idea.
 
