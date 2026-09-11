@@ -5,7 +5,8 @@
 <!-- Link to any related issues (e.g., "Fixes #123") -->
 
 ## Checklist
+Please mark each item completed or explain why it does not apply.
 - [ ] I have verified that my code builds and runs successfully.
 - [ ] I have tested this change on my local environment.
-- [ ] (N/A) I have added or updated tests as necessary for this change.
-- [ ] (N/A) I have updated relevant documentation.
+- [ ] I have added or updated tests as necessary for this change.
+- [ ] I have updated relevant documentation.
